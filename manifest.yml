@@ -1,0 +1,7 @@
+---
+applications:
+  -name: sample
+  path: target/sample-0.0.1-SNAPSHOT.jar
+  random-route: true
+  env:
+    MESSAGE: Hello from Cloud
